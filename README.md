@@ -6,3 +6,4 @@ it is a full-featured security operations platform built with Django, designed t
 organizations manage security incidents, track vulnerabilities, monitor compliance, and maintain 
 audit trails. Features include role-based access control, multi-factor authentication, real-time 
 dashboards, and comprehensive audit logging.
+for Full Project contact(03070787695) or professorshami435@gmail.com
